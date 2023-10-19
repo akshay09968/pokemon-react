@@ -1,0 +1,32 @@
+{
+    "pokemon": [
+      {
+        "name": "Pikachu",
+        "image": "https://example.com/pikachu.png",
+        "CP": 500,
+        "attack": 55,
+        "defense": 40,
+        "type": "Electric",
+        "abilities": ["Static", "Lightning Rod"]
+      },
+      {
+        "name": "Charizard",
+        "image": "https://example.com/charizard.png",
+        "CP": 1000,
+        "attack": 84,
+        "defense": 78,
+        "type": "Fire/Flying",
+        "abilities": ["Blaze", "Solar Power"]
+      },
+      {
+        "name": "Bulbasaur",
+        "image": "https://example.com/bulbasaur.png",
+        "CP": 300,
+        "attack": 49,
+        "defense": 49,
+        "type": "Grass/Poison",
+        "abilities": ["Overgrow", "Chlorophyll"]
+      }
+    ]
+  }
+  
